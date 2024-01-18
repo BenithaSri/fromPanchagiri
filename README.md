@@ -12,3 +12,6 @@ I have been to this restraunt during my stay in *Banglore*, India.<br>It is a sm
 * Brookfield Mall
 * HAL Museum
 * Kundanhalli Lake
+
+
+[Here is the link for MyMedia](MyMedia.md)
