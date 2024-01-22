@@ -27,12 +27,14 @@ I usually am intrested in true crimes, I transport to the scence and start think
 
 How to check if atleast one element passes in a function using TypeScript?
 
-
-[Snippet] (https://github.com/BenithaSri/fromPanchagiri/blob/main/Snippet.png)
+[Snippet](Snippet.png)
 
 ```
 const some = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.some(fn);
-\```
+
+
+
+
 
 
 
