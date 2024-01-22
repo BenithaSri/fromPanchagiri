@@ -19,5 +19,5 @@ I usually am intrested in true crimes, I transport to the scence and start think
 
 ***
 >“Fortune favors the bold.” – *Virgil*
->That which does not kill us makes us stronger. - *Friedrich Nietzsche*
+>>That which does not kill us makes us stronger. - *Friedrich Nietzsche*
 
