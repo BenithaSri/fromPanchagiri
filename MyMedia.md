@@ -17,3 +17,7 @@ I usually am intrested in true crimes, I transport to the scence and start think
 |When They See Us | A story of 5 teenagers who were wrongly accused and convicted for a crime    | Ava DuVernay                     |
 |Unbelieveable    | An investigation into the crime in 2008                                      | Ken Amstrong                     |
 
+***
+>“Fortune favors the bold.” – *Virgil*
+>That which does not kill us makes us stronger. - *Friedrich Nietzsche*
+
