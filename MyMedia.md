@@ -11,9 +11,9 @@ One my favourite books is ***One Of Us Is Lying***, written by author *Karen M. 
 I usually am intrested in true crimes, I transport to the scence and start thinking what whould I have done if I were the victim.\ Here are few recommendations if you are into true crimes like me!
 
 
-|      TITLE      |                                          REASON                            |           AUTHOR              |
-| :-------------: |: ------------------------------------------------------------------------: |:-----------------------------:|
-|Mind Hunters     | A book on what murders think while commiting the crime                     | John E. Douglas, Mark Olshaker|
-|When They See Us | A story of 5 teenagers who were wrongly accused and convicted for a crime  | Ava DuVernay                  |
-|Unbelieveable    | An investigation into the crime in 2008                                    | Ken Amstrong                  |
+|      TITLE      |                                          REASON                              |           AUTHOR               |
+|-----------------|:----------------------------------------------------------------------------:|-------------------------------:|
+|Mind Hunters     | A book on what murders think while commiting the crime                       | John E. Douglas, Mark Olshaker   |
+|When They See Us | A story of 5 teenagers who were wrongly accused and convicted for a crime    | Ava DuVernay                     |
+|Unbelieveable    | An investigation into the crime in 2008                                      | Ken Amstrong                     |
 
