@@ -29,7 +29,7 @@ I usually am intrested in true crimes, I transport to the scence and start think
 How to check if atleast one element passes in a function using TypeScript?<br>
 Tests whether at least one element in the array passes the test implemented by a provided function.
 
-[Snippet](Snippet.png)
+[Snippet](Snippet.png)<br>
 [Sinippet Source](https://code.pieces.app/collections/javascript)
 
 ```
