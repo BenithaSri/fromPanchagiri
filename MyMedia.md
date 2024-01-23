@@ -30,6 +30,7 @@ How to check if atleast one element passes in a function using TypeScript?<br>
 Tests whether at least one element in the array passes the test implemented by a provided function.
 
 [Snippet](Snippet.png)
+[Sinippet Source](https://code.pieces.app/collections/javascript)
 
 ```
 const some = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.some(fn);
